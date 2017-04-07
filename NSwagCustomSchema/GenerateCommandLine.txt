@@ -1,0 +1,1 @@
+﻿nswag.exe webapi2swagger /assembly:"NSwagCustomSchema.exe" /output:"swagger.json" /IsAspNetCore:true
